@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends.</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93421</idno>
+            <idno type="STC">Wing S4297A</idno>
+            <idno type="STC">ESTC R224590</idno>
+            <idno type="EEBO-CITATION">43078145</idno>
+            <idno type="OCLC">ocm 43078145</idno>
+            <idno type="VID">151723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151723)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends.</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Nottingham? :</pubPlace>
+                  <date>1667?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: W.S. Nottingham the first day of the 5. month 1667.</note>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151723:1" rendition="simple:additions"/>
+            <head>An Epiſtle to Friends.</head>
+            <opener>
+               <salute>Deare Friends and Welbeloved in the Lord, unto whom my Spirit wiſheth peace and proſperitie for Ever;</salute>
+            </opener>
+            <p>that as the Lord hath made himſelf manifeſt unto you, Even ſo to love him and abide with him, and their you will finde ſafetye and preſervation in all danger. &amp; you will not Eaſily be moved or ſhaken as to the truth which ye have Received, but will ſtand firm and ſure as upon a Rock, for ye that are come into the Faith of the Son of, God you cannot eaſily goe from him, or part with him, for you Remember the time when you wanted him, &amp; the dayes and nights of mourning becauſe you could not finde him, and now that he hath manifeſted himſelf unto you in his Light, and that ye have found him, and Received him, can you leave him, and forſake him to Imbrace the world again, or can you Run after any airy Spirit into an airy Kingdome, oh no, the true birth cryes my beloved is mine and I am his, with ſore travel I have found him, and in diligent watchfulneſs I will wait to keep with him, for he is the chiefeſt of ten thouſand, and his love is better then wine, and ſo you come to ſit under his wing, and under his ſhadow, and in his preſenc have fulneſs of joy, and this is your ſatiſfaction, peace and conſolation, and ye cannot go from that to Ioyne with the enemies temptation, for ye know in whom you believe, and by whom you are preſerved, and in him all live, Even in Chriſt Jeſus, who is the Life and Subſtance, and ſo in him you will be Sollid and weighty, and Savory and ſound in Spirit and minde, and there ye will honour the truth in a clear and living teſtimony to Gods glory therefore keep your eye to the watch, that as ye have received Chriſt Jeſus the Lord, you may walk in him, and abide with him, for where any ſuffereth loſs they neglect the watch, but as you watch in the light, you will not onely ſee your Enemy but receive power to Reſiſt him, and in due time to overcome him and ſeeing the Enemie takes all advantages to work his work, how then ſhould every one ſeeke after their ſafety &amp; Security &amp; ſtand in readin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs to reſiſt their Enemy. And how are all concerned to have the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me care one over another in love and tenderneſs of ſpirit, for it is a work well pleaſing unto God and they are of good report who are found in it, and their memory is bleſſed for ever, and how this care ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been manifeſted in time of danger; it is witneſſed by ſuch as are preſerved, for how hath the Enemy endeavored not onely to enſnare with the world, but to reign above the ſeed in his airy kingdom, and how hath ſome been affected with his work as having a fair likeneſs in a ſhew of higher diſcoveries, and how hath the care of brethren been manifeſted in this hour of temptation, for in the firſt appearance or breaking forth, it
+<pb n="2" facs="tcp:151723:2" rendition="simple:additions"/>dazeled the Eyes of many, and they did not well know whether it was day or night? or what the Lord would doe in ſuch a ſudden change or alteration, and then was the travail of B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren very great, as having much care of the body, and their teſtimony they faithfully publiſhed, and the Lord hath wrought mightily unto preſervation and reſtoring, though ſum in their own wiſdom may ſtill pleas themſelves in that Kingdome, and notwithſtanding the Lord hath ſo preſerved, and reſtored, and given dominion over the hour of this temptation, and that the work which by the ſame was intended is by the power of God prevented, and the true miniſtry ſtandeth, and the true worſhip ſtandeth, and true unity ſtandeth, and the holy Seed reigneth, yet it is needfull for all to be watchful, leaſt the ſame ſpirit riſe again in an<g ref="char:EOLhyphen"/>other likneſs or form, for where he hath been bruiſed and foyled he will not ſo readily put up his head in that likeneſs again, but rather form ſome other &amp; if the watch be not kept, the ſame affections may be taken again as before: for the wrong that any ſuffer in things of this nature is by the ſtrength of natural affections, in which the enemy can excerciſe his Subtilty to deceive, and where the affections are let at liberty they will be catching at every new preſentation, not regarding the ground from whence they came, and ſeeing that the power of the Lord God hath bruiſed him in this appearance, even ſo to watch in the power and keep him down with all his formed likeneſſes, and there ye will witneſs the conquering power and overcoming power of God, and the preſer<g ref="char:EOLhyphen"/>vation and deliverance by it. Oh the power of the Lord which conquers &amp; overcomes the enemy it is a thing which is beyond expreſſion, and yet may have a ſervice through what is expreſſed, for thereby weak hands may be ſtrengthened and feeble knees confirmed, and the poor and needy encouraged to follow the Lord, and keep the faith without wavering, and ſo in the power there is a going forward and a growth in grace and Godlyneſs, and there love and peace and unity aboundeth in he true ſeed, and the ſeed goes over the Serpents head and breakes it, and overthrowes his power and ſtrength and authority, and ſo the true ſeed comes above him, and the birth of God reioyces over him. And ſo all friends minde your growth in the power and virtue of God, and keep your teſtimony in his life and wiſdome, and your judgment in a clear diſcerning, and let your love and reſpect be unto ſuch as faithfully labours in the word and Doctrine, &amp; give no heed to that Spirit which would perſwade you to diſreſpect brethren, for though the faith of out Lord Ieſus Chriſt is not held in reſpect of perſons, as to ſay to the Rich ſit thou hear above, and to the poore ſit thou there at my footſtool. Yet who be in the faith of our Lord Ieſus Chriſt they
+<pb n="3" facs="tcp:151723:2" rendition="simple:additions"/>are taught to reſpect every perſon who be in the ſame faith, for how can any love one another according to Chriſts command, if they diſreſpect their perſons, for love and reſpect are mutually joyned, but ſome makes a noiſe about men and perſons, and would have people ceaſe from man, and not reſpect perſons, and ſo would cunningly overthrow love and reſpect amongſt friends, and where the Enemy ſets up this doctrine he brings in envy in ſtead of love, and hatred in ſtead of reſpect, &amp; they that receive this doctrine into their beleif, they ſoon go out from the Saints fellowſhip: for God hath cloathed ſome with his wiſdome, and with power from on high hath endued them, and in body ſoul and Spirit hath Sanctified them, and ſo as Sanctified men he calls them to labour in his work, and committs the word of Re<g ref="char:EOLhyphen"/>conciliation to them, and Intruſts the Goſpel of peace with them, and they that ceas from ſuch men and diſreſpect ſuch men, they ceas from the power of God and diſreſpect the power of God, forasmuch as the power of God ſpeaks in and by them: and ſo he hath ſet ſome in the Church who hath authority in his power and wiſdone to order and Ed<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fie it, and this is a work beyond gathering and convincing, and who are come into the unity of the faith, and to the knowledg of the Son of God, and to the meaſure of the ſtature of the fulneſs of Chriſt, they dare not diſreſpect his Apoſtles and miniſters but hath unity with them in their work and Reioyces in their labour, and therefore beware of ſuch, who wreſteth Scripture from its owne Intention according to the mind of the Spirit, and let your love and reſpect be Enlarged one towards another; and let your words be few and ſavory, and in the Light walk reſervedly, retiredly, for where words guſheth forth like water from a ſpout, the Tongue is not commanded with the bridle and ſo is unruly and at liberty to ſpeak in the aboundance of ſuper<g ref="char:EOLhyphen"/>fluity, and ſuch diſcourſes may tickle the mindes of ſome hearers and cauſe them to admire, but as to Edification there is no Savour in them, and all hold your unity and fellowſhip in the light and power of God, and watch over the natural affections which are Inordinate, that ſo in the ſeed you may be kindly affectionated one to another, and in the ſeed feels your refreſhings together in the manifeſtations of your unity. For the inordinate affections onely ſtirreth up the Inordinate part, and thereby begetteth the affections in others by its Inordinate manifeſtation, &amp; though in manifeſtation it carries a great ſhew of love, yea, ſeemingly more then what kindly affectionated friends do ma<g ref="char:EOLhyphen"/>nifeſt, yet it reacheth no further by its manifeſtation then onely the naturall affections, but unfeigned love reacheth the ſeed, and in the unity of the ſeed friends are refreſhed one in another. And dear frends as
+<pb n="4" facs="tcp:151723:3" rendition="simple:additions"/>concerning the preſent times; be not ye troubled, but keep cloſe to the Lord and c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt your care upon him, and live with him, and ſo the times will not concern you, neither will you concerne your ſelves with the times, but mind that which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncernes your peace out of the times, for though you may ſee diſtreſs and calamitie depending as to the na<g ref="char:EOLhyphen"/>tion, yet you are not to concern your ſelves in it, but to ſtand ſtill and eye the Lord, which I am fully <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſwaded many of you doe, and they that do not ſo they create their own perplexity in the multitude of their owne thoughts, therefore all keep in the faith and in the love of God and his truth, and follow peace and purſue it, and then you will be ready to receive what God permittesh in true contentment, and ſo be ſtill and quiet &amp; feel Gods peace and bleſſing, and there lie down and truſt the Lord with all you have, and then if Nation Riſe againſt Nation and Kingdom againſt Kingdome, and that there be wars or famine or peſtilence, you are not troubled nor diſquieted as other people whom fears Surprizeth, but reſt in your Inward poſſeſſion and feele Gods peace and bleſſing, for when calamity comes upon a nation or Kingdome be<g ref="char:EOLhyphen"/>cauſe of Sin and iniquity therein, it ſurpriſes the ſinner with fear becauſe they are guilty &amp; they are ready to take hold one of another, &amp; yet dare not truſt one another, ſuch is their fear on every ſide, and if they fall in the Calamity they fall in their iniquity, and ſo falls in miſery, but ſuch as fears the Lord they lye down in peace, though in the ſame common calamity they be taken away, and therefore it is with me to ſay unto you as it was ſayed in times paſt, fear not little flock for it is your fa<g ref="char:EOLhyphen"/>thers good pleaſure to give you a Kingdom and let this be your full ſatiſ<g ref="char:EOLhyphen"/>faction, for God hath provided better things for you then what is hear below, yea, he hath provided a Kingdom and it is his good pleaſure to give it you, and ſo your portion and inheritance is above &amp; your riches above &amp; your treaſure above, and there let your hearts be, &amp; let no man entice you with high words or arguments concerning the truth, for that will onely make you notionall, but keep low in Gods fear &amp; power, and walk in the plain path, and there the Lord will meet you, and ſpeak comfortably to you, and with his preſence will refreſh you, and that is the moſt deſirable thing, and ſo in all things be watchfull with dili<g ref="char:EOLhyphen"/>gence, that as you have Eſcaped dangers paſt, even ſo ye may be kept from dangers to come, and then ye will finiſh a clear teſtimony to Gods glory, and receive Etenall life as your reward, and the Ever<g ref="char:EOLhyphen"/>laſting God of power be with you, in whoſe love my Spirit Salutes you and reſts with you. Finally my brethren Fare ye well</p>
+            <closer>
+               <dateline>Nottingham <date>the firſt day of the 5. month 1667.</date>
+               </dateline>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
